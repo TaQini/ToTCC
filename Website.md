@@ -14,3 +14,7 @@
 - https://ctext.org/zh
 - 古籍原本數據庫
 
+## 愛如生-中醫典海
+
+- http://gj.ersjk.com/spring/front/use
+- 中醫典籍數據庫
